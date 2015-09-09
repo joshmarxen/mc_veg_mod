@@ -1,6 +1,6 @@
-# mc_veg_mod
+# Vegetarian Mod
 
-#Overview 
+# Overview 
 VegetarianMod is a Minecraft Forge mod that allows you to shear chickens for feathers and milk squids for ink (like cows). A very small mod.
 
 To install, make sure you have Minecraft Forge first. If not, follow the forge mod installation instructions. There are many of these available online. One example below: 
