@@ -3,6 +3,16 @@
 #Overview 
 VegetarianMod is a Minecraft Forge mod that allows you to shear chickens for feathers and milk squids for ink (like cows). A very small mod.
 
+To install, make sure you have Minecraft Forge first. If not, follow the forge mod installation instructions. There are many of these available online. One example below: 
+http://minemum.com/installing-mods
+
+If you have MC Forge, download the .jar file and place it into the minecraft mods folder.
+Windows: %appdata%\roaming\.minecraft\mods
+Mac OSX: /Users/<your user name>/Library/Application Support/minecraft/mods
+
+A more complete tutorial:
+http://www.kegel.com/minecraft/use-mods.html
+
 # Shearable Chickens
 - Use shears on chickens to shear their feathers.
 - Chickens will appear to have patchy feathers when shorn. (You shouldn't cut blood feathers - the point is not to hurt the chicken!)
@@ -20,4 +30,4 @@ VegetarianMod is a Minecraft Forge mod that allows you to shear chickens for fea
 - Ink bottles can be used in any crafting recipe to replace ink sacs. (Unfortunately, this consumes the bottle as well as the ink. I haven't figured out how to fix this issue yet. But glass is easy to come by.)
 
 # Known Issues
-- Display names are weird. Either they're in italics, or a the game defaults to an unpleasant java-object type name.
+- Display names are weird. Either they're in italics, or a the game defaults to an unpleasant java-object type name. 
